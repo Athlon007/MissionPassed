@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2237040793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 768f8ecc9d892c2f43b3471fd29249d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1c11dacd7400708f945b69baff7d9e21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/missionpassed.mp3
+- Assets/MissionPassedPlayer.prefab
+Dependencies: []
